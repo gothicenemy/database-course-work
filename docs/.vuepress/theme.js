@@ -6,11 +6,11 @@ export default hopeTheme({
 
   editLink: false,
 
-  repo: 'serrhiy/database-course-work',
+  repo: 'gothicenemy/database-course-work',
 
   docsDir: 'docs',
 
-  footer: 'ECL 2.0 Licensed | Copyright © [2024] [Serhii Lytvynenko] ',
+  footer: 'ECL 2.0 Licensed | Copyright © [2024] [Maksymovskyi Nazar] ',
 
   displayFooter: true,
 

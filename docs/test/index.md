@@ -1,3 +1,33 @@
 # Testing of the system performance
 
-_In this section, you should specify the test tools, provide test source codes and test results._
+### GetAll
+<p>
+
+<img src="./img/getall.png">
+
+</p>
+
+### GetById
+<p>
+ <img src="./img/getid.png">
+</p>
+
+### Post
+<p>
+<img src="./img/post.png">
+</p>
+
+### Patch
+<p>
+<img src="./img/patch.png">
+</p>
+
+### Delete
+<p>
+<img src="./img/delete.png">
+</p>
+
+### Error
+<p>
+<img src="./img/error.png">
+</p>
