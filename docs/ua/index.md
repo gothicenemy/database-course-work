@@ -20,7 +20,6 @@ footer: 'ECL 2.0 Licensed | Copyright © [2024] [Maksymovskyi Nazar] |'
 
 _Студент 2-го курсу, групи ІМ-31_ <span padding-right:5em></span>Максимовський Назар Русланович<span padding-left:5em></span> [Telegram](https://t.me/gothicenemy)
 
-
 **Керівник**
 
 _доцент кафедри ОТ ФІОТ, к.т.н., доцент_<span padding-right:5em></span> **Андрій БОЛДАК**
