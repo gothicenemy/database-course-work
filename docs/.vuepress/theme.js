@@ -6,7 +6,7 @@ export default hopeTheme({
 
   editLink: false,
 
-  repo: 'gothicenemy/database-course-work',
+  repo: 'https://github.com/gothicenemy/database-course-work',
 
   docsDir: 'docs',
 
