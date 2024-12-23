@@ -1,1 +1,3 @@
 markdown: kramdown
+theme: minima
+baseurl: "gothicenemy/database-course-work"
