@@ -13,7 +13,7 @@ actions:
     link: ./intro/
     type: primary
 
-footer: 'ECL 2.0 Licensed | Copyright © [2024] [Maksymovskyi Nazar] |'
+footer: 'ECL 2.0 Licensed | Copyright © [2024] [Serhii Lytvynenko] |'
 ---
 
 **Prepared by:**
@@ -31,3 +31,5 @@ _Associate Professor of the Department of SE at the FICE, Ph.D. in Technical Sci
 [Department of Computer Engineering](https://comsys.kpi.ua/)
 
 Kyiv
+
+
